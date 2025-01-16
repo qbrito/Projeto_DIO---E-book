@@ -5,11 +5,11 @@ E-book de 11 páginas gerado com ferramentas de IA. Temas do e-book: Inovação,
 
 ### 🤖 Tecnologias Utilizadas
 ChatGPT para roteiro e edição do texto e título do-book, 
-Canva para criar imagem,
+Canva para gerar a imagem da capa,
 PowerPoint para formatar a estrutura dos textos e imagens no e-book
 
 ### 🧐 Processo de Criação
-Fiz uma pesquisa no chatGPT para possíveis temas a serem tratados no e-book, apresentei um contexto ao chatGPT informando que o e-book que seria utilizado em uma empresa para promover o engajamento de todos empregados na cultura ágil e digital. Com esse contexto, pedi ao ChatGPT para criar o conteúdo e a estrutura do texto do e-book. Com o texto pronto e revisado, finalizei o e-book no powerpoint, formatando as estruturas e apresentações das páginas e inserindo imagens geradas no canva.
+Fiz uma pesquisa no chatGPT para possíveis temas a serem tratados no e-book, apresentei um contexto ao chatGPT informando que o e-book que seria utilizado em uma empresa para promover o engajamento de todos empregados na cultura ágil e digital. Com esse contexto, pedi ao ChatGPT para criar o conteúdo e a estrutura do texto do e-book. Com o texto pronto e revisado, finalizei o e-book no powerpoint, formatando as estruturas e apresentações das páginas e inserindo imagem gerada no canva.
 
 PROMPT PARA CRIAÇÃO DE E-BOOK: Uma empresa está em processo de transformação digital e está implementando metodologias ágeis para acelerar a entrega de soluções com foco no cliente e se posicionar no mercado como referência em sua área. Para isso, precisa incentivar a cultura ágil e digital em todas os setores e processos da empresa. 
 Você é o líder de uma equipe multidisciplinar responsável por lançar ações educativas que promovam o engajamento de todos empregados na cultura ágil e digital e ações que que fomentem o uso de novas ferramentas que agilizam os processos e as entregas.
